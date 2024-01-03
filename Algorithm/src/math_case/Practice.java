@@ -6,6 +6,7 @@ package math_case;
 // 활용) 1~10의 수 중 A의 약수이면서 B의 약수인 경우의 수
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Practice {
 

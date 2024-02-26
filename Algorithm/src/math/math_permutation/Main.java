@@ -1,4 +1,4 @@
-package math_permutation;
+package math.math_permutation;
 
 // 기초 수학 - 순열
 

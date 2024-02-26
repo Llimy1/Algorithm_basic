@@ -1,4 +1,4 @@
-package math_recursion;
+package math.math_recursion;
 
 // Practice2
 // 최대공약수를 재귀함수로 구현하시오.

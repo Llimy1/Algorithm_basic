@@ -1,4 +1,4 @@
-package math_recursion;
+package math.math_recursion;
 
 // 기초 수학 - 점화식과 재귀함수
 

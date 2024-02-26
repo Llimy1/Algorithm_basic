@@ -1,4 +1,4 @@
-package math_set;// math_set.Practice
+package math.math_set;// math.math_set.Practice
 // ArrayList를 사용한 집합 구현 실습 (집합 관련 연산 사용 X)
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package math_case;
+package math.math_case;
 
 // 기초 수학 - 경우의 수
 

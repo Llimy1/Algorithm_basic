@@ -1,4 +1,4 @@
-package math_recursion;
+package math.math_recursion;
 
 // Practice1
 // 팩토리얼을 재귀함수로 구현하시오.

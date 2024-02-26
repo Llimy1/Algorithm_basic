@@ -1,4 +1,4 @@
-package math_combination;
+package math.math_combination;
 
 // 기초 수학 - 조합
 
